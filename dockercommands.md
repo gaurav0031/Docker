@@ -32,7 +32,7 @@ To check image size
 Before deleting an image
 
 2️⃣ docker ps
-docker ps
+
 What it does:
 
 Lists currently running containers.
@@ -50,7 +50,7 @@ Ports
 Container name
 
 3️⃣ docker ps -a
-docker ps -a
+
 What it does:
 
 Shows all containers (running + stopped).
