@@ -5,10 +5,7 @@ It serves as my personal Docker reference and revision guide.
 
 ---
 
-# 1️⃣ docker images
-
-```bash
-docker images
+1️⃣docker images
 
 What it does:
 
