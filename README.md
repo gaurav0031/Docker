@@ -22,7 +22,7 @@ This guide is structured so beginners can follow it step-by-step and use it as f
 12. Architecture Overview
 13. What I Learned
 
----
+----
 
 # 1️⃣ What is Docker?
 
@@ -33,7 +33,7 @@ Containers ensure applications run consistently on:
 - Cloud Servers
 - Production Environments
 
----
+----
 
 # 2️⃣ Key Docker Concepts
 
