@@ -33,7 +33,7 @@ Containers ensure applications run consistently on:
 - Cloud Servers
 - Production Environments
 
-----
+-----
 
 # 2️⃣ Key Docker Concepts
 
@@ -46,7 +46,7 @@ Containers ensure applications run consistently on:
 | Port Mapping | Connecting container port to host port |
 | Environment Variable | Runtime configuration |
 
----
+----
 
 # 3️⃣ Installing Docker on AWS EC2
 
