@@ -1,4 +1,4 @@
-# 🐳 Docker on AWS EC2 – Complete Beginner to Practical Guide 
+# 🐳 Docker on AWS EC2 -- Complete Beginner to Practical Guide 
 
 This repository documents my hands-on journey of installing Docker on AWS EC2, containerizing applications (Java & Flask), running MySQL in containers, and understanding Docker fundamentals.
 
